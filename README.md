@@ -1,5 +1,7 @@
 
-![Screenshot](/res/logo/vateslogo.jpg?raw=true width="800")
+<div align="center">
+    <img src="/res/logo/vateslogo.jpg" width="800px"</img> 
+</div>
 
 # Vates Quantum
 

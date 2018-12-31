@@ -3,8 +3,8 @@
 
 # Vates Quantum
 
-**Vates** is an simple implementation of Grover's algorithm.
-It's using power of IBM Quantum at backend and power of tkinter on frontend.
+**Vates** is a simple implementation of Grover's algorithm.
+It's using the power of IBM Quantum at backend and power of tkinter on the frontend.
 Qiskit is made up elements that work together to enable quantum computing. This element is **Terra** and is the foundation on which the rest of Qiskit is built.
 
 ## Installation
@@ -55,6 +55,7 @@ After calling `IBMQ.save_account()`, your credentials will be stored on disk.
 Once they are stored, at any point in the future we can load and use them.
 
 ## Screenshots
+Flow, left to right.
 ![Screenshot](/res/logo/flow.jpg?raw=true)
 
 ## Next Steps
@@ -62,10 +63,10 @@ Once they are stored, at any point in the future we can load and use them.
 Right now, Grover's Algorithm in this state doesn't make much sense. However,
 we can create something useful and practical in upcoming years. I, myself, am not
 a real Quantum Researcher, I'm only a hobbyist. Hence, if you spot any problems or
-misguidence, please create an issue so we all can learn more about this unexplored
-realm.
+misguidance caused by me, please create an issue so we all can learn more about this unexplored
+Quantum realm.
 
 ## Authors
 
-Vates created by me however, Qiskit Terra is the work of [many people](https://github.com/Qiskit/qiskit-terra/graphs/contributors) who contribute
+Vates created by me, however, Qiskit Terra is the work of [many people](https://github.com/Qiskit/qiskit-terra/graphs/contributors) who contribute
 to the project at different levels.

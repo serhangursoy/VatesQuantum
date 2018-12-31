@@ -1,5 +1,5 @@
 
-![Screenshot](/res/logo/vateslogo.jpg?raw=true)
+![Screenshot](/res/logo/vateslogo.jpg?raw=true width="800")
 
 # Vates Quantum
 
